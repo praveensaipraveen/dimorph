@@ -1,4 +1,4 @@
-As the project is going to be published as a journal, i cannot give the source code of the core algorithm, i worked on. But i'm providing the executable (windows, cygwin and linux versions).
+The executable (windows, cygwin and linux versions) is provided. Source code for main program is not provided
 
 To run "dimorph.c",
 
